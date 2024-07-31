@@ -5,7 +5,7 @@
 }
 
 body {
-  margin-top: 100px;
+  margin: 100px 0;
 }
 
 h1,
@@ -95,5 +95,10 @@ p {
   }
   .about-me-page-images {
     margin: 10px auto;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
