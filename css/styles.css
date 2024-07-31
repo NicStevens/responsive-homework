@@ -82,3 +82,18 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 48px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  .container {
+    text-align: center;
+  }
+  .about-me-page-images {
+    margin: 10px auto;
+  }
+}
